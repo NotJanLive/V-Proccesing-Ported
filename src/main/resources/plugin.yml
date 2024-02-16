@@ -1,0 +1,10 @@
+name: V-ProcessingPorted
+main: de.notjan.main.Main
+version: 1.0
+author: NotJan
+database: true
+api-version: "1.20"
+softdepend: [HolographicDisplays]
+commands:
+  vproc:
+    permission: vproc.admin
