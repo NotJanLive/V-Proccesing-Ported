@@ -15,7 +15,7 @@ V-Processing Ported is a simple plugin which allows you to create processers whi
 - /vproc <processer/category> set - Sets the location of a processer/category of processers
 - /vproc <processer> set - Gives you the needed items
 - /vproc <processer/category> open - Opens the GUI of the processer/category of processers
-- ** The /proc command is available for admins only! Permission: vproc.admin**
+- **The /proc command is available for admins only! Permission: vproc.admin**
 
 # Issues
 If you have any issues regardings this plugin, feel free to open a new issue on the "Issue" page on GitHub.
