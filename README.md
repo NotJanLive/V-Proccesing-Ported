@@ -8,6 +8,7 @@ V-Processing Ported is a simple plugin which allows you to create processers whi
 - Run multiple processers at the same time
 - Colored displaynames support
 - Unlimited required and result items
+- Holographic Displays support
 - Easy to setup
 
 # Commands
